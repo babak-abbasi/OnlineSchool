@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I06bhfRkbNRmz5IfnB1l2rj+ZmuvC4H1cDvn6KVLhC4=",
+  "Source": "OnlineSchool.WebApi",
+  "BasePath": "_content/OnlineSchool.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
